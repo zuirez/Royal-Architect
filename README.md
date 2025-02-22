@@ -2,5 +2,6 @@
 
 Live Preview :
 
-https://zuirez-qr-app.vercel.app/
-https://zuirez-qr-app.netlify.app/
+1. https://zuirez-qr-app.vercel.app/
+
+2. https://zuirez-qr-app.netlify.app/
