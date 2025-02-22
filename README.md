@@ -2,6 +2,6 @@
 
 Live Preview :
 
-1. https://zuirez-qr-app.vercel.app/
+1. https://zuirez-royal-architect.vercel.app/
 
-2. https://zuirez-qr-app.netlify.app/
+2. https://zuirez-royal-architect.netlify.app/
